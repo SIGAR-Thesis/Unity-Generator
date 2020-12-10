@@ -1,0 +1,63 @@
+﻿{
+  "images": 1000,
+  "distribution": {
+    "type": 0
+  },
+  "environment": {
+    "season": 0,
+    "timeRange": {
+      "range": {
+        "start": 0,
+        "length": 2
+      }
+    },
+    "weather": 0,
+    "lights": 0,
+    "smoke": 1
+  },
+  "carRange": {
+    "lightRange": {
+      "intensityRange": {
+        "range": {
+          "start": 4000,
+          "length": 4000
+        }
+      }
+    },
+    "typeRange": {
+      "range": {
+        "start": 0,
+        "length": 1
+      }
+    },
+    "colorRange": {
+      "range": {
+        "start": 0,
+        "length": 1
+      }
+    },
+    "numPassengersRange": {
+      "range": {
+        "start": 2,
+        "length": 2
+      }
+    },
+    "carAccessories": [
+      0
+    ],
+    "passengerRange": {
+      "genderRange": {
+        "range": {
+          "start": 0,
+          "length": 2
+        }
+      },
+      "ageRange": {
+        "range": {
+          "start": 0,
+          "length": 1
+        }
+      }
+    }
+  }
+}

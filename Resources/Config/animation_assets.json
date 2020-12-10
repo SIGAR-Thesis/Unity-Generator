@@ -1,0 +1,29 @@
+﻿﻿{
+  "animations": [
+    {
+      "seatRole": 0,
+      "prefabPath": "Driving"
+    },
+    {
+      "seatRole": 1,
+      "prefabPath": "Talking"
+    },
+    {
+      "seatRole": 1,
+      "prefabPath": "male-sitting1"
+    },
+    {
+      "seatRole": 1,
+      "prefabPath": "Sitting Talking"
+    },
+    {
+      "seatRole": 1,
+      "prefabPath": "Sitting Talking_F"
+    },
+    
+    {
+      "seatRole": 1,
+      "prefabPath": "Sitting_F"
+    }
+  ]
+}

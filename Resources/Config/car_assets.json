@@ -1,0 +1,14 @@
+﻿﻿{
+  "cars": [
+    {
+      "type": 0,
+      "color": 0,
+      "prefabPath": "darkRedGtr"
+    },
+    {
+      "type": 0,
+      "color": 0,
+      "prefabPath": "Nissan_GTR_2018"
+    }
+  ]
+}

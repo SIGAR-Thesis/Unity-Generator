@@ -1,0 +1,84 @@
+﻿﻿{
+  "passengers": [
+    {
+      "gender": 0,
+      "age": 0,
+      "prefabPath": "ibrahim"
+    },
+    {
+      "gender": 0,
+      "age": 0,
+      "prefabPath": "ismail"
+    },
+    {
+      "gender": 0,
+      "age": 0,
+      "prefabPath": "khaled"
+    },
+    {
+      "gender": 0,
+      "age": 0,
+      "prefabPath": "mobs"
+    },
+    {
+      "gender": 0,
+      "age": 0,
+      "prefabPath": "mazen"
+    },
+    {
+      "gender": 0,
+      "age": 0,
+      "prefabPath": "mohamed"
+    },
+    {
+      "gender": 0,
+      "age": 0,
+      "prefabPath": "omar"
+    },
+    {
+      "gender": 0,
+      "age": 0,
+      "prefabPath": "tarek"
+    },
+    {
+      "gender": 0,
+      "age": 0,
+      "prefabPath": "youssef"
+    },
+    {
+      "gender": 1,
+      "age": 0,
+      "prefabPath": "rana"
+    },
+    {
+      "gender": 1,
+      "age": 0,
+      "prefabPath": "nourhan"
+    },
+    {
+      "gender": 1,
+      "age": 0,
+      "prefabPath": "noha"
+    },
+    {
+      "gender": 1,
+      "age": 0,
+      "prefabPath": "maya"
+    },
+    {
+      "gender": 1,
+      "age": 0,
+      "prefabPath": "laila"
+    },
+    {
+      "gender": 1,
+      "age": 0,
+      "prefabPath": "bassant"
+    },
+    {
+      "gender": 1,
+      "age": 0,
+      "prefabPath": "sara"
+    }
+  ]
+}
